@@ -1,4 +1,4 @@
-{% assign Libraries = site.data.data.Libraries %}
+{% assign libraries = site.data.data.libraries %}
 {% if }
 <section class="libraries-section section">
 
@@ -7,16 +7,16 @@
 			<i class="fas fa-circle fa-stack-2x"></i>
 			<i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
 		</span>
-		{{ Libraries.title }}
+		{{ libraries.title }}
 	</h2>
 	<div class="libraries">
 
-		{% for Libaries in Ligraries.toolset %}
+		{% for libraries in libraries.toolset %}
 		<div class="library">
 
-			<h3 class="level-title">{{ Libraries.name }}</h3>
+			<h3 class="level-title">{{ libraries.name }}</h3>
 			<div class="level-bar">
-				<div class="level-bar-inner" data-level="{{ Libraries.level }}">
+				<div class="level-bar-inner" data-level="{{ libraries.level }}">
 				</div>
 			</div><!--//level-bar-->
 		</div><!--//library-->
