@@ -62,7 +62,7 @@ education:
         i have more experience with. A few of the libraries that i have used in python are Tkinter(a GUI for python) where i made an up
         with mutliple pages and a menu and Qiskit a quantum programing library that simulates quantum computers and lets you program
         in a quantum simulated enviroment
-     
+      
 skills:
     title: Skills &amp; Proficiency
 
@@ -80,7 +80,7 @@ skills:
         level: 85%
 
 Libraries:
-        title: Libraries &amp; tools
+        title: libraries &amp; tools
 
         toolset:
           - name: Qiskit
