@@ -54,7 +54,7 @@ career-profile:
       tools and languages that i have become quite good at. I always try to learn new stuff even though i dont have a project that i feel 
       confindent puting in here.
 education:
-    - degree: MSc in Computer Science
+    - degree: Humanistic Informatics
       university: Ionian University of Informatics
       time: 2019 - Today
       details: |
@@ -80,13 +80,13 @@ skills:
         level: 85%
 
 libraries:
-        title: libraries &amp; tools
+    title: libraries &amp; tools
 
-        toolset:
-          - name: Qiskit
-            level: 85%
+    toolset:
+      - name: Qiskit
+        level: 85%
 
-          - name: Tkinter
-            level: 95%
+      - name: Tkinter
+        level: 95%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
