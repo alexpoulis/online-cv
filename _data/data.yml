@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: p19poul1@ionio.gr
-    phone: 012 345 6789
+    phone: 697 --- ---
     citizenship:
     website:  #do not add http://
     linkedin: 
@@ -69,6 +69,12 @@ skills:
     toolset:
       - name: Python
         level: 95%
+        
+      - name: Qiskit
+        level: 85%
+
+      - name: Tkinter
+        level: 95%
 
       - name: Java
         level: 80%
@@ -79,14 +85,5 @@ skills:
       - name: C & C++
         level: 85%
 
-libraries:
-    title: libraries &amp; tools
-
-    toolset:
-      - name: Qiskit
-        level: 85%
-
-      - name: Tkinter
-        level: 95%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
