@@ -64,10 +64,10 @@ education:
         in a quantum simulated enviroment
 
 experiences:
-    role: Freelance Programmer
-    time: 2019 - Today
-    details: |
-      Trying to expand my knowledge on many different fields like quantum computing, A.I. and game creation
+    - role: Freelance Programmer
+      time: 2019 - Today
+      details: |
+        Trying to expand my knowledge on many different fields like quantum computing, A.I. and game creation
       
 skills:
     title: Skills &amp; Proficiency
