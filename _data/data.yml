@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: p19poul1@ionio.gr
-    phone: 697 --- ---
+    phone: 698 413 8410
     citizenship:
     website:  #do not add http://
     linkedin: 
@@ -22,11 +22,11 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@notrealwtiter'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/alexpoulis/online-cv/raw/master/pdf/cv.pdf
+    pdf: https://github.com/alexpoulis/online-cv/raw/praktikh/pdf/cv.pdf
 
     languages:
       - idiom: Greek
@@ -51,7 +51,7 @@ career-profile:
     title: ABOUT ME
     summary: |
       I LOVE coffe and I am a quick learner so that makes me pick up tools and programming languages very quick. That has made me learn some
-      tools and languages that i have become quite good at. I always try to learn new stuff even though i dont have a project that i feel 
+      tools and languages that I have become quite good at. I always try to learn new stuff even though I dont have a project that I feel 
       confindent puting in here.
 education:
     - degree: Humanistic Informatics
@@ -59,40 +59,35 @@ education:
       time: 2019 - Today
       details: |
         I am in the 3rd year of Univerrsity and my favourite projects so far have been the ones that are in python as that is the language
-        i have more experience with. A few of the libraries that i have used in python are Tkinter(a GUI for python) where i made an up
-        with mutliple pages and a menu and Qiskit a quantum programing library that simulates quantum computers and lets you program
+        I have more experience with. A few of the libraries that I have used in python are Tkinter(a GUI for python) where I made an app
+        with mutliple pages(frames) and Qiskit a quantum programing library that simulates quantum computers and lets you program
         in a quantum simulated enviroment
 
 experiences:
     - role: Freelance Programmer
       time: 2019 - Today
       details: |
-        Trying to expand my knowledge on many different fields like quantum computing, A.I. and game creation
+        Trying to expand my knowledge on many different fields like quantum computing, A.I. and game development
       
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 95%
+        level: 90%
         
       - name: Qiskit
-        level: 85%
+        level: 75%
 
       - name: Tkinter
-        level: 95%
-
-      - name: Java
-        level: 80%
+        level: 85%
 
       - name: Mysql
-        level: 90%
+        level: 80%
 
       - name: C & C++ & C#
         level: 80%
         
-      - name: Unity
-        level: 60%
 
 footer: >
         Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
