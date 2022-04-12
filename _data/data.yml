@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/alexpoulis/online-cv/raw/praktikh/pdf/cv.pdf
+    pdf: # https://github.com/alexpoulis/online-cv/raw/praktikh/pdf/cv.pdf
 
     languages:
       - idiom: Greek
