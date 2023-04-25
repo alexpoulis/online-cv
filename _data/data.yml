@@ -33,16 +33,13 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: B2
 
     interests:
       - item: Drinking coffee
         link:
 
-      - item: Playing the guitar
-        link:
-
-      - item: Cooking
+      - item: Music(playing and listening)
         link:
 
       - item: Gaming
@@ -50,7 +47,7 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-      I LOVE coffe and I am a quick learner so that makes me pick up tools and programming languages very quick. That has made me learn some
+      I LOVE coffe and I am a quick learner so that makes me pick up tools and programming languages very quickly. That has made me learn some
       tools and languages that I have become quite good at. I always try to learn new stuff even though I dont have a project that I feel 
       confindent puting in here.
 education:
@@ -58,29 +55,26 @@ education:
       university: Ionian University of Informatics
       time: 2019 - Today
       details: |
-        I am in the 3rd year of Univerrsity and my favourite projects so far have been the ones that are in python as that is the language
-        I have more experience with. A few of the libraries that I have used in python are Tkinter(a GUI for python) where I made an app
-        with mutliple pages(frames) and Qiskit a quantum programing library that simulates quantum computers and lets you program
-        in a quantum simulated enviroment
+        I am in the 4rd year of Univerrsity and my favourite projects so far have been the ones that are in python, as that is the language
+        I have more experience with, and projects that have to do with A.I.
 
 experiences:
     - role: Freelance Programmer
       time: 2019 - Today
       details: |
-        Trying to expand my knowledge on many different fields like quantum computing, A.I. and game development
+        Trying to expand my knowledge on fields like A.I. maynly using python. A few of the libraries that I have used in python are Tkinter(a GUI tool for python) 
+        where I made an app with mutliple pages(this was made with me and one more student), Qiskit a quantum programing library that simulates quantum computers, even 
+        though i didn't really keep up with this library and lastly the one I have used as of late nltk a library used for NLP(natural language processing).
+        
+        The GUI app I made with a friend of mine(Θεόφιλος Παπαδόπουλος) is at his github(https://github.com/gordthrow/multimedia-project). It is a small app made mostly to see how to work
+        with the tkinter library of python and other than that and the fact that we messed a bit with settings its really basic.
       
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Python
         level: 90%
-        
-      - name: Qiskit
-        level: 75%
-
-      - name: Tkinter
-        level: 85%
 
       - name: Mysql
         level: 80%
@@ -88,6 +82,3 @@ skills:
       - name: C & C++
         level: 80%
         
-
-footer: >
-        Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
