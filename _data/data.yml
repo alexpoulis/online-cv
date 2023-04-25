@@ -48,21 +48,20 @@ career-profile:
     title: ABOUT ME
     summary: |
       I LOVE coffe and I am a quick learner so that makes me pick up tools and programming languages very quickly. That has made me learn some
-      tools and languages that I have become quite good at. I always try to learn new stuff even though I dont have a project that I feel 
-      confindent puting in here.
+      tools and languages that I have become quite good at. 
 education:
     - degree: Humanistic Informatics
       university: Ionian University of Informatics
       time: 2019 - Today
       details: |
         I am in the 4rd year of Univerrsity and my favourite projects so far have been the ones that are in python, as that is the language
-        I have more experience with, and projects that have to do with A.I.
+        I have more experience with.
 
 experiences:
     - role: Freelance Programmer
       time: 2019 - Today
       details: |
-        Trying to expand my knowledge on fields like A.I. maynly using python. A few of the libraries that I have used in python are Tkinter(a GUI tool for python) 
+        Trying to expand my knowledge on fields like A.I. mainly using python. A few of the libraries that I have used in python are Tkinter(a GUI tool for python) 
         where I made an app with mutliple pages(this was made with me and one more student), Qiskit a quantum programing library that simulates quantum computers, even 
         though i didn't really keep up with this library and lastly the one I have used as of late nltk a library used for NLP(natural language processing).
         
