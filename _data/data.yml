@@ -66,7 +66,7 @@ experiences:
         though i didn't really keep up with this library and lastly the one I have used as of late nltk a library used for NLP(natural language processing).
         
         The GUI app I made with a friend of mine(Θεόφιλος Παπαδόπουλος) is at his [github](https://github.com/gordthrow/multimedia-project). It is a small app mostly made with focus on the
-        GUI part of it and less focused on the actual use of it. It is made with the tkinter library of python. We also messed a bit with settings like volume and window
+        GUI part of it nad how to switch between different pages(frames) and less focused on the actual use of it. It is made with the tkinter library of python. We also messed a bit with settings like volume and window
         size.
         
         To get some experience before making this project I made a simple calculator using the tkinter library you can find that one [HERE](https://github.com/alexpoulis/CalculatorProject)
